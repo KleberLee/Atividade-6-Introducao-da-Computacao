@@ -45,5 +45,3 @@ Este repositório reúne todos os materiais produzidos durante a disciplina, inc
 * Projetos práticos;
 * Documentações técnicas;
 * Exercícios e trabalhos acadêmicos.
-
-O conteúdo será atualizado continuamente conforme o avanço da disciplina, servindo como registro do meu aprendizado e como material de consulta para estudos futuros.
