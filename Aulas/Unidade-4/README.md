@@ -59,4 +59,4 @@ Empresas conectando várias redes
 Provedores de internet
 
 ### 3. Meios de Transmissão
-<img width="1088" height="708" alt="Captura de tela 2026-04-20 193504" src="https://github.com/user-attachments/assets/4503767b-cfdc-4a52-9d58-9e4efdc635e1" />
+<img width="612" height="393" alt="Captura de tela 2026-06-28 205254" src="https://github.com/user-attachments/assets/107e5a94-1224-4795-848b-2c1cc4194715" />
