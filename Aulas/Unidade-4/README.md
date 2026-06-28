@@ -1,7 +1,7 @@
 # Aula 11 – Redes de Computadores: Topologias, Dispositivos e Meios
 
 ### 1. Diagramas de Topologias
-<img width="1061" height="631" alt="Captura de tela 2026-04-20 193037" src="https://github.com/user-attachments/assets/355ec5d0-207e-442a-8a72-c8f1af22ca43" />
+<img width="1213" height="685" alt="Captura de tela 2026-06-28 204904" src="https://github.com/user-attachments/assets/d2c9d00e-2e01-4d49-85e0-9160ca48a7f2" />
 
 ### 2. Quadro Comparativo de Dispositivos
 **Hub**
